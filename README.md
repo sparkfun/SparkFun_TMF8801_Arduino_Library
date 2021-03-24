@@ -5,7 +5,7 @@ SparkFun Qwiic Time-of-Flight Sensor TMF8801
 
 [*SparkX ToF TMF8801 (SPX-17716)*](https://www.sparkfun.com/products/17716)
 
-TMF8801 is a Time-of-Flight sensor capable of measuring distances up to 98.4 inches or 2500 mm using infrared laser light, based on SPAD, TDC and histogram technology. 
+TMF8801 is a Time-of-Flight sensor capable of measuring distances up to 98.4 inches (2500 mm) using infrared laser light, based on SPAD, TDC and histogram technology. 
 
 The device meets Class 1 laser safety limits including single faults in compliance with IEC / EN 60825-1:2014 per the manufacturer's datasheet.
 
