@@ -12,6 +12,7 @@ The device meets Class 1 laser safety limits including single faults in complian
 Repository Contents
 -------------------
 
+* **/documents** - Datasheet, application notes, etc.
 * **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
 * **/src** - Source files for the library (.cpp, .h).
 * **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE. 
