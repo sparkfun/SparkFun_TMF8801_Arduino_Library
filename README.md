@@ -1,7 +1,7 @@
 SparkFun Qwiic Time-of-Flight Sensor TMF8801
 ============================================
 
-[comment]: <![SparkFun Time-of-Flight Sensor TMF8801](https://cdn.sparkfun.com/assets/parts/1/2/8/9/1/14686-Qwiic_VR_IMU_BN0080-01.jpg)> 
+![SparkFun Time-of-Flight Sensor TMF8801](https://cdn.sparkfun.com/assets/parts/1/6/8/2/1/17716-TMF8801_Breakout-01.jpg) 
 
 [*SparkX ToF TMF8801 (SPX-17716)*](https://www.sparkfun.com/products/17716)
 
