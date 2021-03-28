@@ -166,6 +166,7 @@ public:
 
 	// Wakes device up after ENABLE pin is brought back to HIGH
 	void wakeUpDevice();
+	
 };
 
 #endif
